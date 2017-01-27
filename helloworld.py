@@ -1,6 +1,6 @@
 """
 helloworld.py
-Author: Sam
+Author: Sam Pych
 Credit: Myself
 
 Assignment:
